@@ -1,0 +1,1437 @@
+Started monitoring for Google
+Started monitoring for StackOverflow
+Started monitoring for Localhost
+[ALERT] Website Google is UP again
+[ALERT] Website StackOverflow is UP again
+[ALERT] Website Localhost is UP again
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:42:10
+Web: Google
+Response time AVG: 0.1441
+Response codes: {200: 3}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1838
+Response codes: {200: 2}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.8713
+Response codes: {200: 1}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:42:20
+Web: Google
+Response time AVG: 0.1383
+Response codes: {200: 7}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1825
+Response codes: {200: 5}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.3113
+Response codes: {200: 3}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:42:30
+Web: Google
+Response time AVG: 0.1378
+Response codes: {200: 10}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1799
+Response codes: {200: 8}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.1993
+Response codes: {200: 5}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:42:40
+Web: Google
+Response time AVG: 0.1377
+Response codes: {200: 14}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1791
+Response codes: {200: 11}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.1512
+Response codes: {200: 7}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:42:50
+Web: Google
+Response time AVG: 0.1406
+Response codes: {200: 18}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1791
+Response codes: {200: 14}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.1246
+Response codes: {200: 9}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:43:00
+Web: Google
+Response time AVG: 0.1434
+Response codes: {200: 21}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1793
+Response codes: {200: 17}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.1076
+Response codes: {200: 11}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:43:10
+Web: Google
+Response time AVG: 0.1455
+Response codes: {200: 25}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.179
+Response codes: {200: 20}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0947
+Response codes: {200: 13}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:43:20
+Web: Google
+Response time AVG: 0.1465
+Response codes: {200: 29}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1794
+Response codes: {200: 23}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0863
+Response codes: {200: 15}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:43:30
+Web: Google
+Response time AVG: 0.1452
+Response codes: {200: 33}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1794
+Response codes: {200: 26}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0782
+Response codes: {200: 17}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 15:53:40
+Web: Google
+Response time AVG: 0.1484
+Response codes: {200: 37}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1817
+Response codes: {200: 29}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0732
+Response codes: {200: 19}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:43:50
+Web: Google
+Response time AVG: 0.1485
+Response codes: {200: 40}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1812
+Response codes: {200: 32}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0692
+Response codes: {200: 21}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:00
+Web: Google
+Response time AVG: 0.1479
+Response codes: {200: 44}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1813
+Response codes: {200: 35}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0659
+Response codes: {200: 23}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:10
+Web: Google
+Response time AVG: 0.1473
+Response codes: {200: 48}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1811
+Response codes: {200: 38}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0631
+Response codes: {200: 25}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:20
+Web: Google
+Response time AVG: 0.1477
+Response codes: {200: 52}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1819
+Response codes: {200: 41}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0602
+Response codes: {200: 27}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:30
+Web: Google
+Response time AVG: 0.148
+Response codes: {200: 56}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.182
+Response codes: {200: 44}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0582
+Response codes: {200: 29}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:40
+Web: Google
+Response time AVG: 0.1474
+Response codes: {200: 59}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1826
+Response codes: {200: 47}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0556
+Response codes: {200: 31}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:44:50
+Web: Google
+Response time AVG: 0.1478
+Response codes: {200: 63}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1831
+Response codes: {200: 50}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0541
+Response codes: {200: 33}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:45:00
+Web: Google
+Response time AVG: 0.1476
+Response codes: {200: 66}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1834
+Response codes: {200: 52}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0528
+Response codes: {200: 35}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 15:55:10
+Web: Google
+Response time AVG: 0.1471
+Response codes: {200: 70}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1837
+Response codes: {200: 55}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0517
+Response codes: {200: 37}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:45:20
+Web: Google
+Response time AVG: 0.1468
+Response codes: {200: 73}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1837
+Response codes: {200: 58}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0506
+Response codes: {200: 39}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:45:30
+Web: Google
+Response time AVG: 0.1465
+Response codes: {200: 77}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1835
+Response codes: {200: 61}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0497
+Response codes: {200: 41}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:45:40
+Web: Google
+Response time AVG: 0.1468
+Response codes: {200: 81}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1837
+Response codes: {200: 64}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0488
+Response codes: {200: 43}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:45:50
+Web: Google
+Response time AVG: 0.1462
+Response codes: {200: 84}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1839
+Response codes: {200: 67}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0481
+Response codes: {200: 45}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:46:00
+Web: Google
+Response time AVG: 0.1458
+Response codes: {200: 88}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1839
+Response codes: {200: 70}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 100.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:46:10
+Web: Google
+Response time AVG: 0.1455
+Response codes: {200: 91}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.184
+Response codes: {200: 73}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 97.92%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:46:20
+Web: Google
+Response time AVG: 0.1455
+Response codes: {200: 95}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1834
+Response codes: {200: 76}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 94.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:46:30
+Web: Google
+Response time AVG: 0.1455
+Response codes: {200: 98}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1832
+Response codes: {200: 79}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 92.16%
+------------------------
+[ALERT] Website Localhost is DOWN. Availability=77.27, Time=17/08/2021 16:56:33
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 15:56:40
+Web: Google
+Response time AVG: 0.1452
+Response codes: {200: 102}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.185
+Response codes: {200: 82}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 88.68%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:46:50
+Web: Google
+Response time AVG: 0.1451
+Response codes: {200: 106}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.185
+Response codes: {200: 85}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 87.04%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:00
+Web: Google
+Response time AVG: 0.1449
+Response codes: {200: 109}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1848
+Response codes: {200: 88}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 85.45%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:10
+Web: Google
+Response time AVG: 0.145
+Response codes: {200: 113}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.185
+Response codes: {200: 91}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 82.46%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:20
+Web: Google
+Response time AVG: 0.1449
+Response codes: {200: 117}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1849
+Response codes: {200: 94}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 81.03%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:30
+Web: Google
+Response time AVG: 0.1446
+Response codes: {200: 120}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1848
+Response codes: {200: 97}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 78.33%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:40
+Web: Google
+Response time AVG: 0.1445
+Response codes: {200: 124}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1847
+Response codes: {200: 100}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 77.05%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:47:50
+Web: Google
+Response time AVG: 0.1446
+Response codes: {200: 128}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1848
+Response codes: {200: 103}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 74.6%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:48:00
+Web: Google
+Response time AVG: 0.1444
+Response codes: {200: 131}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1847
+Response codes: {200: 105}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.047
+Response codes: {200: 47}
+Availability: 73.44%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 15:58:10
+Web: Google
+Response time AVG: 0.1452
+Response codes: {200: 135}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1849
+Response codes: {200: 108}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0457
+Response codes: {200: 49}
+Availability: 74.24%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:48:20
+Web: Google
+Response time AVG: 0.1452
+Response codes: {200: 138}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.185
+Response codes: {200: 111}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0448
+Response codes: {200: 51}
+Availability: 75.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:48:30
+Web: Google
+Response time AVG: 0.1453
+Response codes: {200: 142}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1849
+Response codes: {200: 114}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0443
+Response codes: {200: 53}
+Availability: 75.71%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:48:40
+Web: Google
+Response time AVG: 0.145
+Response codes: {200: 146}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1848
+Response codes: {200: 117}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0438
+Response codes: {200: 55}
+Availability: 76.39%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:48:50
+Web: Google
+Response time AVG: 0.1449
+Response codes: {200: 149}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1849
+Response codes: {200: 120}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0431
+Response codes: {200: 57}
+Availability: 77.03%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:49:00
+Web: Google
+Response time AVG: 0.1445
+Response codes: {200: 153}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1849
+Response codes: {200: 123}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0425
+Response codes: {200: 59}
+Availability: 77.63%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:49:10
+Web: Google
+Response time AVG: 0.1446
+Response codes: {200: 156}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1847
+Response codes: {200: 126}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0421
+Response codes: {200: 61}
+Availability: 78.21%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:49:20
+Web: Google
+Response time AVG: 0.1443
+Response codes: {200: 160}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1862
+Response codes: {200: 129}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0418
+Response codes: {200: 63}
+Availability: 78.75%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:49:30
+Web: Google
+Response time AVG: 0.144
+Response codes: {200: 164}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1861
+Response codes: {200: 132}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0414
+Response codes: {200: 65}
+Availability: 79.27%
+------------------------
+[ALERT] Website Localhost is UP again
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 15:59:40
+Web: Google
+Response time AVG: 0.1437
+Response codes: {200: 167}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1861
+Response codes: {200: 135}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0411
+Response codes: {200: 67}
+Availability: 79.76%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:49:50
+Web: Google
+Response time AVG: 0.144
+Response codes: {200: 171}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1863
+Response codes: {200: 138}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0408
+Response codes: {200: 69}
+Availability: 80.23%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:00
+Web: Google
+Response time AVG: 0.1438
+Response codes: {200: 175}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1862
+Response codes: {200: 141}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0406
+Response codes: {200: 71}
+Availability: 80.68%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:10
+Web: Google
+Response time AVG: 0.1438
+Response codes: {200: 178}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1862
+Response codes: {200: 144}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0403
+Response codes: {200: 73}
+Availability: 81.11%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:20
+Web: Google
+Response time AVG: 0.1438
+Response codes: {200: 182}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1863
+Response codes: {200: 147}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0401
+Response codes: {200: 75}
+Availability: 81.52%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:30
+Web: Google
+Response time AVG: 0.1436
+Response codes: {200: 185}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1864
+Response codes: {200: 150}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0396
+Response codes: {200: 77}
+Availability: 81.91%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:40
+Web: Google
+Response time AVG: 0.1435
+Response codes: {200: 189}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1863
+Response codes: {200: 153}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0394
+Response codes: {200: 79}
+Availability: 82.29%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:50:50
+Web: Google
+Response time AVG: 0.1436
+Response codes: {200: 193}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1865
+Response codes: {200: 156}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0392
+Response codes: {200: 81}
+Availability: 82.65%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:51:00
+Web: Google
+Response time AVG: 0.1437
+Response codes: {200: 196}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1864
+Response codes: {200: 158}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.039
+Response codes: {200: 83}
+Availability: 83.0%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:01:10
+Web: Google
+Response time AVG: 0.1437
+Response codes: {200: 200}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1877
+Response codes: {200: 161}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0389
+Response codes: {200: 85}
+Availability: 83.33%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:51:20
+Web: Google
+Response time AVG: 0.1435
+Response codes: {200: 203}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1875
+Response codes: {200: 164}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0387
+Response codes: {200: 87}
+Availability: 83.65%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:51:30
+Web: Google
+Response time AVG: 0.1434
+Response codes: {200: 207}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1873
+Response codes: {200: 167}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0385
+Response codes: {200: 89}
+Availability: 83.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:51:40
+Web: Google
+Response time AVG: 0.1432
+Response codes: {200: 211}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1872
+Response codes: {200: 170}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0384
+Response codes: {200: 91}
+Availability: 84.26%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:51:50
+Web: Google
+Response time AVG: 0.1431
+Response codes: {200: 214}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1871
+Response codes: {200: 173}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0382
+Response codes: {200: 93}
+Availability: 84.55%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:52:00
+Web: Google
+Response time AVG: 0.1432
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1871
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0379
+Response codes: {200: 95}
+Availability: 84.82%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:52:10
+Web: Google
+Response time AVG: 0.1432
+Response codes: {200: 219}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1877
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0291
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:52:20
+Web: Google
+Response time AVG: 0.1435
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1877
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0291
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:52:30
+Web: Google
+Response time AVG: 0.1435
+Response codes: {200: 219}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1881
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0291
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:02:40
+Web: Google
+Response time AVG: 0.143
+Response codes: {200: 232}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1877
+Response codes: {200: 188}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0374
+Response codes: {200: 103}
+Availability: 85.83%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:52:50
+Web: Google
+Response time AVG: 0.1433
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1882
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0291
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:00
+Web: Google
+Response time AVG: 0.143
+Response codes: {200: 219}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1882
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0291
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:10
+Web: Google
+Response time AVG: 0.1427
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1885
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0293
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:20
+Web: Google
+Response time AVG: 0.1425
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1887
+Response codes: {200: 177}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0293
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:30
+Web: Google
+Response time AVG: 0.1425
+Response codes: {200: 217}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1889
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0296
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:40
+Web: Google
+Response time AVG: 0.1419
+Response codes: {200: 217}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1887
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0296
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:53:50
+Web: Google
+Response time AVG: 0.1415
+Response codes: {200: 218}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1888
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0296
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:54:00
+Web: Google
+Response time AVG: 0.1415
+Response codes: {200: 217}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1887
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0296
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:04:10
+Web: Google
+Response time AVG: 0.1425
+Response codes: {200: 265}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1875
+Response codes: {200: 214}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0364
+Response codes: {200: 121}
+Availability: 87.68%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:54:20
+Web: Google
+Response time AVG: 0.1411
+Response codes: {200: 217}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1887
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0296
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+########################
+#   Web Monitor Stats  #
+########################
+Average calculated from 17/08/2021 16:54:30
+Web: Google
+Response time AVG: 0.1408
+Response codes: {200: 216}
+Availability: 100.0%
+------------------------
+Web: StackOverflow
+Response time AVG: 0.1886
+Response codes: {200: 176}
+Availability: 100.0%
+------------------------
+Web: Localhost
+Response time AVG: 0.0293
+Response codes: {200: 96}
+Availability: 84.96%
+------------------------
+exit
+End of program
+
+Process finished with exit code 0

@@ -1,0 +1,69 @@
+[2021-08-17 18:12:10,928] [MainThread] [INFO]  Started monitoring for Google
+[2021-08-17 18:12:10,928] [MainThread] [INFO]  Started monitoring for UnaiPuelles
+[2021-08-17 18:12:10,929] [MainThread] [INFO]  Started monitoring for Localhost
+[2021-08-17 18:12:13,353] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:14,343] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:15,764] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:17,748] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:17,950] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:18,152] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:20,550] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:21,153] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:22,956] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:24,571] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:24,971] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:25,383] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:27,803] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:27,979] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:30,210] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:31,383] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:31,978] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:32,612] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:34,792] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:35,027] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:37,441] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:38,209] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:39,022] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:39,872] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:41,617] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:42,274] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:44,671] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:44,995] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:46,053] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:47,075] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:48,382] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:49,506] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:51,810] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:51,880] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:53,076] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:12:54,290] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:55,193] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:56,687] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:12:58,631] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:12:59,088] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:00,087] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:13:01,498] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:02,009] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:03,889] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:05,390] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:06,315] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:07,122] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:13:08,714] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:08,759] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:11,113] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:12,174] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:13,542] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:14,147] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:13:15,609] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:15,942] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:18,339] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:19,042] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:20,767] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:21,168] [Thread-3] [DEBUG]  Added response data for Localhost
+[2021-08-17 18:13:22,505] [Thread-2] [DEBUG]  Added response data for UnaiPuelles
+[2021-08-17 18:13:23,156] [Thread-1] [DEBUG]  Added response data for Google
+[2021-08-17 18:13:24,399] [MainThread] [INFO]  End of program
+[2021-08-17 16:52:00,430] [MainThread] [INFO]  Started monitoring for Google
+[2021-08-17 16:52:00,430] [MainThread] [INFO]  Started monitoring for UnaiPuelles
+[2021-08-17 16:52:00,431] [MainThread] [INFO]  Started monitoring for Localhost
+[2021-08-17 17:04:35,538] [MainThread] [INFO]  End of program
